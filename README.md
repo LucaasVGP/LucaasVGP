@@ -6,22 +6,25 @@ Olá! Meu nome é Lucas Vinicius, sou apaixonado por programação e desenvolvim
 
 ## Tecnologias e interesses
 
-- Linguagem de programação principal: C#
+- Linguagens de Programação: C#, Java, Python, Dart
 - Framework: .NET
 - Área de interesse: Desenvolvimento de APIs e aplicativos web
-- Banco de Dados: MySQL, SQL Server, postgreSQL
-- Ferramentas: Visual Studio, Postman
+- Banco de Dados: MySQL, SQL Server, PostgreSQL, SQLite, MariaDB, Oracle Database, MongoDB, Redis,Firebase Firestore
+- Ferramentas: Visual Studio, Postman, Docker, Linux
 
 ## Habilidades
+
 
 Aqui estão algumas das habilidades que tenho desenvolvido ao longo da minha jornada como desenvolvedor:
 
 - Desenvolvimento em C# e .NET Core.
 - Criação de APIs RESTful com ASP.NET Core.
 - Uso de Entity Framework Core para acesso a banco de dados.
-- Banco de Dados: Modelagem e consultas SQL em MySQL e SQL Server.
+- Banco de Dados: Modelagem e consultas SQL em MySQL, SQL Server, PostgreSQL e outras tecnologias.
 - Versionamento de código com Git.
 - Trabalho em equipe e colaboração em projetos de código aberto.
+- Experiência com Docker para criação e gerenciamento de containers.
+- Conhecimento em Linux para administração e desenvolvimento.
 
 ## Projetos destacados
 
@@ -30,6 +33,3 @@ Aqui estão algumas das habilidades que tenho desenvolvido ao longo da minha jor
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre C#, .NET, desenvolvimento de APIs ou MySQL, sinta-se à vontade para me contatar:
-
-- E-mail: lucaas.vgp@gmail.com
-- LinkedIn: [perfil_no_LinkedIn](https://www.linkedin.com/in/lucas-v-b12410286/)

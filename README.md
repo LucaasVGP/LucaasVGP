@@ -33,3 +33,5 @@ Aqui estão algumas das habilidades que tenho desenvolvido ao longo da minha jor
 ## Contato
 
 Se você tiver alguma dúvida, sugestão ou apenas quiser bater um papo sobre C#, .NET, desenvolvimento de APIs ou MySQL, sinta-se à vontade para me contatar:
+- E-mail: lucaas.vgp@gmail.com
+- LinkedIn: [perfil_no_LinkedIn](https://www.linkedin.com/in/lucas-v-b12410286/)
